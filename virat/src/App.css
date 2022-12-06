@@ -1,0 +1,29 @@
+.comB{
+  background-color:skyblue ;
+}
+div{
+  /* background-color: lightgreen; */
+}
+table{
+  /* border: 2px solid black; */
+  width: 100%;
+  text-align: center;
+  color: black;
+  background-color:lightgrey;
+}
+.th {
+  background-color:antiquewhite;
+  text-align: left;
+}
+
+.th:hover{
+  background-color: aqua;
+}
+td{
+background-color: white;
+}
+td:hover{
+ background-color:lightcoral ;
+ 
+};
+
